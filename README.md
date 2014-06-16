@@ -1,4 +1,4 @@
 DeadlockBlog
 ============
 
-Code examples from my blog http://deadlockblog.co
+Code examples from my blog http://deadlockblog.com
